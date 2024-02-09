@@ -1,7 +1,7 @@
 # "Simple Counter" de EduardoHernandezGuzman
 
 ## Un poco de información
-undécimo proyecto realizado en el bootcamp de 4GEEKSACADEMY.   
+Undécimo proyecto realizado en el bootcamp de 4GEEKSACADEMY.   
 
 ## ¿Cómo puedo ejecutarlo?
 
